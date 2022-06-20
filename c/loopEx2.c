@@ -12,9 +12,9 @@ int main(){
         // fact = fact * fact;
         fact *= i; 
         
-        printf("The factorial of %d is %d \n", i,fact);
+        // printf("The factorial of %d is %d \n", i,fact);
     }
     
-
+    printf("The factorial of %d is %d \n", num,fact);
     return 0;
 }
